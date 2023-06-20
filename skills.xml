@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<skils>
+<skills>
 	<git>4</git>
 	<postman>4</postman>
 	<sql>3</sql>
@@ -10,3 +10,5 @@
 	<android studio>3</android studio>
 	<adb>1</adb>
 	<jmeter>3</jmeter>
+</skills>
+	
