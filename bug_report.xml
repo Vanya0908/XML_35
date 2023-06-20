@@ -1,1 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
 
+<bug_report>
+    <ID>1</ID>
+    <Title>In the chat store, when you type a message on the left side of the screen displays a part of the main page</Title>
+    <Environment>Samsung A31,Google Chrome 98.0.4758.101</Environment>
+    <STR>1.Go to https://www.com click tap 2.Click on the message icon in the lower right corner 3.Click on the message input field</STR>
+    <Expected result>Store chat is displayed in full screen</Expected result>
+    <Actual result>Part of the home page is displayed on the left side of the screen</Actual result>
+    <Priority>Medium</Priority>
+    <Severity>Major</Severiry>
+    <Attachments>https://prnt.sc/j5LkCyAXF--B</Attachments>
+</bug_report>
